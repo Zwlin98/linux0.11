@@ -12,3 +12,4 @@ Linux学习笔记，包含了我学习操作系统时的笔记，还有进行清
 - 一个操作系统的实现(第二版)
 - GNU/Linux环境编程(第二版)
 - 80x86汇编语言基础教程
+- Intel 80386 Reference Programers Manual-i386
